@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "name": "Anão",
+        "name": "Dwarf",
         "books": [
             9,
             10,
@@ -36,7 +36,7 @@
     },
     {
         "id": 5,
-        "name": "Centauro",
+        "name": "Centaur",
         "books": [
             5,
             7
@@ -51,7 +51,7 @@
     },
     {
         "id": 7,
-        "name": "Draconato",
+        "name": "Dragonborn",
         "books": [
             9,
             4
@@ -59,7 +59,7 @@
     },
     {
         "id": 8,
-        "name": "Elfo",
+        "name": "Elf",
         "books": [
             9,
             6,
