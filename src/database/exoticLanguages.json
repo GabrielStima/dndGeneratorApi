@@ -1,0 +1,10 @@
+[
+    {"id": 1, "language": "Abyssal", "alphabet": "Infernal" },
+    {"id": 2, "language": "Celestial", "alphabet": "Celestial" },
+    {"id": 3, "language": "Draconic", "alphabet": "Draconic" },
+    {"id": 4, "language": "Deep Speech", "alphabet": "" },
+    {"id": 5, "language": "Infernal", "alphabet": "Infernal" },
+    {"id": 6, "language": "Primordial", "alphabet": "Dwarvish" },
+    {"id": 7, "language": "Sylvan", "alphabet": "Elvish" },
+    {"id": 8, "language": "Undercommon", "alphabet": "Elvish" }
+]

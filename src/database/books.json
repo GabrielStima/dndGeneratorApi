@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Acquisitions Incorporated",
+        "initials": "AI"
+    },
+    {
+        "id": 2,
+        "name": "Dungeon Master’s Guide",
+        "initials": "DMG"
+    },
+    {
+        "id": 3,
+        "name": "Eberron – Rising from the Last War",
+        "initials": "RLW"
+    },
+    {
+        "id": 4,
+        "name": "Explorer’s Guide to Wildemount",
+        "initials": "EGW"
+    },
+    {
+        "id": 5,
+        "name": "Guildmaster’s Guide to Ravnica",
+        "initials": "GGtR"
+    },
+    {
+        "id": 6,
+        "name": "Mordenkainen’s Tome of Foes",
+        "initials": "MToF"
+    },
+    {
+        "id": 7,
+        "name": "Mythic Odysseys of Theros",
+        "initials": "MOT"
+    },
+    {
+        "id": 8,
+        "name": "Player’s Companion",
+        "initials": "PC"
+    },
+    {
+        "id": 9,
+        "name": "Player’s Handbook",
+        "initials": "PHB"
+    },
+    {
+        "id": 10,
+        "name": "Sword Coast Adventurer’s Guide",
+        "initials": "SCAG"
+    },
+    {
+        "id": 11,
+        "name": "Tasha’s Cauldron to Everything",
+        "initials": "TCE"
+    },
+    {
+        "id": 12,
+        "name": "The Wild Beyond the Witchlight",
+        "initials": "WBW"
+    },
+    {
+        "id": 13,
+        "name": "Van Richten’s Guide to Ravenloft",
+        "initials": "VGR"
+    },
+    {
+        "id": 14,
+        "name": "Volo’s Guide to Monsters",
+        "initials": "VGtM"
+    },
+    {
+        "id": 15,
+        "name": "Xanathar’s Guide to Everything",
+        "initials": "XGtE"
+    }
+]

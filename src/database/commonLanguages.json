@@ -1,0 +1,10 @@
+[
+    {"id": 1, "language": "Common", "alphabet": "Common" },
+    {"id": 2, "language": "Dwarvish", "alphabet": "Dwarvish" },
+    {"id": 3, "language": "Elvish", "alphabet": "Elvish" },
+    {"id": 4, "language": "Giant", "alphabet": "Dwarvish" },
+    {"id": 5, "language": "Gnomish", "alphabet": "Dwarvish" },
+    {"id": 6, "language": "Goblin", "alphabet": "Dwarvish" },
+    {"id": 7, "language": "Halfling", "alphabet": "Common" },
+    {"id": 8, "language": "Orc", "alphabet": "Dwarvish" }
+]

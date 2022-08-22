@@ -1,0 +1,933 @@
+[
+    {
+        "id": 1,
+        "name": "Alchemist",
+        "class": 1,
+        "book": [
+            3,
+            11
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Artillerist",
+        "class": 1,
+        "book": [
+            3,
+            11
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Battle Smith",
+        "class": 1,
+        "book": [
+            3,
+            11
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Armorer",
+        "class": 1,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Path of the Berserker",
+        "class": 2,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Path of the Totem Warrior",
+        "class": 2,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Path of the Battlerager",
+        "class": 2,
+        "book": [
+            10
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Path of the Totem Warrior",
+        "class": 2,
+        "book": [
+            10
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Path of the Ancestral Guardian",
+        "class": 2,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Path of the Ancestral Herald",
+        "class": 2,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Path of the Zealot",
+        "class": 2,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Path of the Beast",
+        "class": 2,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Path of Wild Magic",
+        "class": 2,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 14,
+        "name": "College of Lore",
+        "class": 3,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 15,
+        "name": "College of Valor",
+        "class": 3,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 16,
+        "name": "College of Glamour",
+        "class": 3,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 17,
+        "name": "College of Swords",
+        "class": 3,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 18,
+        "name": "College of Whispers",
+        "class": 3,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 19,
+        "name": "College of Eloquence",
+        "class": 3,
+        "book": [
+            7,
+            11
+        ]
+    },
+    {
+        "id": 20,
+        "name": "College of Creation",
+        "class": 3,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 21,
+        "name": "College of Spirits",
+        "class": 3,
+        "book": [
+            13
+        ]
+    },
+    {
+        "id": 22,
+        "name": "The Archfey",
+        "class": 4,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 23,
+        "name": "The Fiend",
+        "class": 4,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 24,
+        "name": "The Great Old One",
+        "class": 4,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 25,
+        "name": "The Undying",
+        "class": 4,
+        "book": [
+            10
+        ]
+    },
+    {
+        "id": 26,
+        "name": "The Celestial",
+        "class": 4,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 27,
+        "name": "The Hexblade",
+        "class": 4,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 28,
+        "name": "The Fathomless",
+        "class": 4,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 29,
+        "name": "The Genie",
+        "class": 4,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 30,
+        "name": "The Undead",
+        "class": 4,
+        "book": [
+            13
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Knowledge Domain",
+        "class": 5,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Life Domain",
+        "class": 5,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Light Domain",
+        "class": 5,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Nature Domain",
+        "class": 5,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Tempest Domain",
+        "class": 5,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Trickery Domain",
+        "class": 5,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 37,
+        "name": "War Domain",
+        "class": 5,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Death Domain",
+        "class": 5,
+        "book": [
+            2
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Arcana Domain",
+        "class": 5,
+        "book": [
+            10
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Forge Domain",
+        "class": 5,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Grave Domain",
+        "class": 5,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Order Domain",
+        "class": 5,
+        "book": [
+            5,
+            11
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Peace Domain",
+        "class": 5,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Twilight Domain",
+        "class": 5,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Circle of the Land",
+        "class": 6,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Circle of the Moon",
+        "class": 6,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Circle of Dreams",
+        "class": 6,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Circle of the Shepherd",
+        "class": 6,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Circle of Spores",
+        "class": 6,
+        "book": [
+            5,
+            11
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Circle of Stars",
+        "class": 6,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Circle of Wildfire",
+        "class": 6,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Draconic Bloodline",
+        "class": 7,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Wild Magic",
+        "class": 7,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Storm Sorcery",
+        "class": 7,
+        "book": [
+            10
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Divine Soul",
+        "class": 7,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Shadow Magic",
+        "class": 7,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Aberrant Magic",
+        "class": 7,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Clockwork Souls",
+        "class": 7,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Hunter",
+        "class": 8,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Beast Master",
+        "class": 8,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Horizon Walker",
+        "class": 8,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Monster Slayer",
+        "class": 8,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Gloom Stalker",
+        "class": 8,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Fey Wanderer",
+        "class": 8,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Swarmkeeper",
+        "class": 8,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Battle Master",
+        "class": 9,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Champion",
+        "class": 9,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Eldritch Knight",
+        "class": 9,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Purple Dragon Knight",
+        "class": 9,
+        "book": [
+            10
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Samurai",
+        "class": 9,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Cavalier",
+        "class": 9,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Arcane Archer",
+        "class": 9,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Echo Knight",
+        "class": 9,
+        "book": [
+            4
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Psi Warrior",
+        "class": 9,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Rune Knight",
+        "class": 9,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Arcane Trickster",
+        "class": 10,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Assassin",
+        "class": 10,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Thief",
+        "class": 10,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Mastermind",
+        "class": 10,
+        "book": [
+            10,
+            15
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Swashbuckler",
+        "class": 10,
+        "book": [
+            10,
+            15
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Inquisitive",
+        "class": 10,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Scout",
+        "class": 10,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Phantom",
+        "class": 10,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Soulknife",
+        "class": 10,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 85,
+        "name": "School of Abjuration",
+        "class": 11,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 86,
+        "name": "School of Conjuration",
+        "class": 11,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 87,
+        "name": "School of Divintaion",
+        "class": 11,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 88,
+        "name": "School of Enchantment",
+        "class": 11,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 89,
+        "name": "School of Evocation",
+        "class": 11,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 90,
+        "name": "School of Illusion",
+        "class": 11,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 91,
+        "name": "School of Necromancy",
+        "class": 11,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 92,
+        "name": "School of Transmutation",
+        "class": 11,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 93,
+        "name": "Bladesinging",
+        "class": 11,
+        "book": [
+            10,
+            11
+        ]
+    },
+    {
+        "id": 94,
+        "name": "War Magic",
+        "class": 11,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 95,
+        "name": "Chronurgist",
+        "class": 11,
+        "book": [
+            4
+        ]
+    },
+    {
+        "id": 96,
+        "name": "Graviturgist",
+        "class": 11,
+        "book": [
+            4
+        ]
+    },
+    {
+        "id": 97,
+        "name": "Order of Scribes",
+        "class": 11,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 98,
+        "name": "Way of the Open Hand",
+        "class": 12,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 99,
+        "name": "Way of the Shadow",
+        "class": 12,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Way of the Four Elements",
+        "class": 12,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Way of the Long Death",
+        "class": 12,
+        "book": [
+            10
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Way of the Sun Soul",
+        "class": 12,
+        "book": [
+            10,
+            15
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Way of the Drunken Master",
+        "class": 12,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Way of the Kensei",
+        "class": 12,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Way of Mercy",
+        "class": 12,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Way of the Astral Self",
+        "class": 12,
+        "book": [
+            11
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Oath of Devotion",
+        "class": 13,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 108,
+        "name": "Oath of the Ancients",
+        "class": 13,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Oath of the Vengeance",
+        "class": 13,
+        "book": [
+            9
+        ]
+    },
+    {
+        "id": 110,
+        "name": "Oathbreaker",
+        "class": 13,
+        "book": [
+            2
+        ]
+    },
+    {
+        "id": 111,
+        "name": "Oath of the Crown",
+        "class": 13,
+        "book": [
+            10
+        ]
+    },
+    {
+        "id": 112,
+        "name": "Oath of Conquest",
+        "class": 13,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 113,
+        "name": "Oath of Redemption",
+        "class": 13,
+        "book": [
+            15
+        ]
+    },
+    {
+        "id": 114,
+        "name": "Oath of Glory",
+        "class": 13,
+        "book": [
+            7,
+            11
+        ]
+    },
+    {
+        "id": 115,
+        "name": "Oath of the Watchers",
+        "class": 13,
+        "book": [
+            11
+        ]
+    }
+]

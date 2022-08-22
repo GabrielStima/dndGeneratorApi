@@ -1,0 +1,11 @@
+[
+  { "id": 1, "text": "Lawful Good" },
+  { "id": 2, "text": "Neutral Good" },
+  { "id": 3, "text": "Chaotic Good" },
+  { "id": 4, "text": "Lawful Neutral" },
+  { "id": 5, "text": "Neutral" },
+  { "id": 6, "text": "Chaotic Neutral" },
+  { "id": 7, "text": "Lawful Evil" },
+  { "id": 8, "text": "Neutral Evil" },
+  { "id": 9, "text": "Chaotic Evil" }
+]

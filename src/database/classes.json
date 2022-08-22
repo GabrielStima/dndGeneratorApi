@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "name": "Artífice",
+        "books": [
+            3,
+            11
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bárbaro",
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Bardo",
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Bruxo",
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Clérigo",
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Druida",
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Feiticeiro",
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Guardião",
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Guerreiro",
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Ladino",
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Mago",
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Monge",
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Paladino",
+        "books": [
+            9
+        ]
+    }
+]

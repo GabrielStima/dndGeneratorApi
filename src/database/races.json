@@ -1,0 +1,339 @@
+[
+    {
+        "id": 1,
+        "name": "Aarakocra",
+        "books": [
+            8,
+            4
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Aasimar",
+        "books": [
+            14,
+            4
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Anão",
+        "books": [
+            9,
+            10,
+            6,
+            3
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Bugbear",
+        "books": [
+            14,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Centauro",
+        "books": [
+            5,
+            7
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Dhampir",
+        "books": [
+            13
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Draconato",
+        "books": [
+            9,
+            4
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Elfo",
+        "books": [
+            9,
+            6,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Fairy",
+        "books": [
+            12
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Firbolg",
+        "books": [
+            14,
+            4
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Genasi",
+        "books": [
+            4,
+            8
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Gith",
+        "books": [
+            6
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Gnomo",
+        "books": [
+            9,
+            8,
+            10,
+            6
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Goblin",
+        "books": [
+            5,
+            14,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Goliath",
+        "books": [
+            8,
+            14,
+            4
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Halfling",
+        "books": [
+            9,
+            4,
+            3
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Harengon",
+        "books": [
+            12
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Hexblood",
+        "books": [
+            13
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Simic Hybrid",
+        "books": [
+            5
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Hobgoblin",
+        "books": [
+            14,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Hollow One",
+        "books": [
+            4
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Humano",
+        "books": [
+            9,
+            3
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Kalashtar",
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Kenku",
+        "books": [
+            14,
+            4
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Kobold",
+        "books": [
+            14
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Leonin",
+        "books": [
+            7
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Lizardfolk",
+        "books": [
+            14
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Loxodonte",
+        "books": [
+            5
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Half-Elf",
+        "books": [
+            9,
+            3
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Half-Orc",
+        "books": [
+            9,
+            3
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Minotaur",
+        "books": [
+            5,
+            7
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Orc",
+        "books": [
+            14,
+            3
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Reborn",
+        "books": [
+            13
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Satyr",
+        "books": [
+            7
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Shifter",
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Tabaxi",
+        "books": [
+            14,
+            4
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Tiefling",
+        "books": [
+            9,
+            6,
+            10
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Tortle",
+        "books": [
+            4
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Tritão",
+        "books": [
+            14,
+            7
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Vedalken",
+        "books": [
+            5
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Verdan",
+        "books": [
+            1
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Warforged",
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Yuan-Ti",
+        "books": [
+            14
+        ]
+    }
+]
