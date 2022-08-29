@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "text": "Natural hair"
+    },
+    {
+        "id": 2,
+        "text": "Neat hair"
+    },
+    {
+        "id": 3,
+        "text": "Disheveled hair"
+    },
+    {
+        "id": 4,
+        "text": "Shaved head"
+    },
+    {
+        "id": 5,
+        "text": "Bangs"
+    },
+    {
+        "id": 6,
+        "text": "Bun"
+    },
+    {
+        "id": 7,
+        "text": "Topknot"
+    },
+    {
+        "id": 8,
+        "text": "Braid"
+    },
+    {
+        "id": 9,
+        "text": "Ponytail"
+    },
+    {
+        "id": 10,
+        "text": "Dreadlocks"
+    },
+    {
+        "id": 11,
+        "text": "Cornrows"
+    },
+    {
+        "id": 12,
+        "text": "Mohawk"
+    }
+]

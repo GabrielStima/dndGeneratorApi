@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "text": "Light brown"
+    },
+    {
+        "id": 2,
+        "text": "Medium brown"
+    },
+    {
+        "id": 3,
+        "text": "Dark brown"
+    },
+    {
+        "id": 4,
+        "text": "Light auburn"
+    },
+    {
+        "id": 5,
+        "text": "Medium auburn"
+    },
+    {
+        "id": 6,
+        "text": "Dark auburn"
+    },
+    {
+        "id": 7,
+        "text": "Light blond"
+    },
+    {
+        "id": 8,
+        "text": "Medium blond"
+    },
+    {
+        "id": 9,
+        "text": "Dark blond"
+    },
+    {
+        "id": 10,
+        "text": "Light red"
+    },
+    {
+        "id": 11,
+        "text": "Medium red"
+    },
+    {
+        "id": 12,
+        "text": "Dark red"
+    },
+    {
+        "id": 13,
+        "text": "Light golden"
+    },
+    {
+        "id": 14,
+        "text": "Medium golden"
+    },
+    {
+        "id": 15,
+        "text": "Dark golden"
+    },
+    {
+        "id": 16,
+        "text": "Light silver"
+    },
+    {
+        "id": 17,
+        "text": "Medium silver"
+    },
+    {
+        "id": 18,
+        "text": "Dark silver"
+    },
+    {
+        "id": 19,
+        "text": "Light gray"
+    },
+    {
+        "id": 20,
+        "text": "Medium gray"
+    },
+    {
+        "id": 21,
+        "text": "Dark gray"
+    },
+    {
+        "id": 22,
+        "text": "Light white"
+    },
+    {
+        "id": 23,
+        "text": "Medium white"
+    },
+    {
+        "id": 24,
+        "text": "Dark white"
+    },
+    {
+        "id": 25,
+        "text": "Light black"
+    },
+    {
+        "id": 26,
+        "text": "Medium black"
+    },
+    {
+        "id": 27,
+        "text": "Dark black"
+    },
+    {
+        "id": 28,
+        "text": "Dyed black"
+    },
+    {
+        "id": 29,
+        "text": "Dyed blue"
+    },
+    {
+        "id": 30,
+        "text": "Dyed purple"
+    },
+    {
+        "id": 31,
+        "text": "Dyed pink"
+    },
+    {
+        "id": 32,
+        "text": "Dyed yellow"
+    },
+    {
+        "id": 33,
+        "text": "Dyed red"
+    },
+    {
+        "id": 34,
+        "text": "Dyed orange"
+    },
+    {
+        "id": 35,
+        "text": "Dyed green"
+    },
+    {
+        "id": 36,
+        "text": "Dyed teal"
+    }
+]
