@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "text": "Anorexic"
+    },
+    {
+        "id": 2,
+        "text": "Skinny"
+    },
+    {
+        "id": 3,
+        "text": "Really thin"
+    },
+    {
+        "id": 4,
+        "text": "Thin"
+    },
+    {
+        "id": 5,
+        "text": "Quite thin"
+    },
+    {
+        "id": 6,
+        "text": "Slim"
+    },
+    {
+        "id": 7,
+        "text": "In good shape"
+    },
+    {
+        "id": 8,
+        "text": "Muscular"
+    },
+    {
+        "id": 9,
+        "text": "Stocky"
+    },
+    {
+        "id": 10,
+        "text": "Strong"
+    },
+    {
+        "id": 11,
+        "text": "Flabby"
+    },
+    {
+        "id": 12,
+        "text": "Overweight"
+    },
+    {
+        "id": 13,
+        "text": "Quite fat"
+    },
+    {
+        "id": 14,
+        "text": "Fat"
+    },
+    {
+        "id": 15,
+        "text": "Really fat"
+    },
+    {
+        "id": 16,
+        "text": "Obese"
+    }
+]

@@ -1,6 +1,6 @@
 [
-  { "id": 0, "text": "Childhood" },
-  { "id": 1, "text": "Young Adult" },
-  { "id": 2, "text": "Settled Adult" },
-  { "id": 3, "text": "Elderly" }
+  { "id": 1, "text": "Childhood" },
+  { "id": 2, "text": "Young Adult" },
+  { "id": 3, "text": "Settled Adult" },
+  { "id": 4, "text": "Elderly" }
 ]

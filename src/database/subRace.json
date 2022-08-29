@@ -1,65 +1,742 @@
 [
-    {"id": 0, "name": "Fallen Aasimar", "race": 2, "books":[14]},
-    {"id": 0, "name": "Protector Aasimar", "race": 2, "books":[14]},
-    {"id": 0, "name": "Scourge Aasimar", "race": 2, "books":[14]},
-    {"id": 0, "name": "Hill Dwarf", "race": 3, "books":[9]},
-    {"id": 0, "name": "Mountain Dwarf", "race": 3, "books":[9]},
-    {"id": 0, "name": "Gray Dwarf", "race": 3, "books":[10]},
-    {"id": 0, "name": "Mark of Warding Dwarf", "race": 3, "books":[3]},
-    {"id": 0, "name": "Dark Elf", "race": 8, "books":[9]},
-    {"id": 0, "name": "Eladrin", "race": 8, "books":[6]},
-    {"id": 0, "name": "High Elf", "race": 8, "books":[9]},
-    {"id": 0, "name": "Sea Elf", "race": 8, "books":[6]},
-    {"id": 0, "name": "Shadar-Kai", "race": 8, "books":[6]},
-    {"id": 0, "name": "Wood Elf", "race": 8, "books":[9]},
-    {"id": 0, "name": "Pallid Elf", "race": 8, "books":[4]},
-    {"id": 0, "name": "Mark of Shadow Elf", "race": 8, "books":[3]},
-    {"id": 0, "name": "Air Genasi", "race": 11, "books":[4,8]},
-    {"id": 0, "name": "Earth Genasi", "race": 11, "books":[4,8]},
-    {"id": 0, "name": "Fire Genasi", "race": 11, "books":[4,8]},
-    {"id": 0, "name": "Water Genasi", "race": 11, "books":[4,8]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]},
-    {"id": 0, "name": "", "race": 8, "books":[]}
+    {
+        "id": 1,
+        "name": "Standard Aarakocra",
+        "race": 1,
+        "books": [
+            8,
+            4
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Fallen Aasimar",
+        "race": 2,
+        "books": [
+            14
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Protector Aasimar",
+        "race": 2,
+        "books": [
+            14
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Scourge Aasimar",
+        "race": 2,
+        "books": [
+            14
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Hill Dwarf",
+        "race": 3,
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Mountain Dwarf",
+        "race": 3,
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Gray Dwarf",
+        "race": 3,
+        "books": [
+            10
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Mark of Warding Dwarf",
+        "race": 3,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Standard Bugbear",
+        "race": 4,
+        "books": [
+            14,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Standard Centaur",
+        "race": 5,
+        "books": [
+            5,
+            7
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Standard Dhampir",
+        "race": 6,
+        "books": [
+            13
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Standard Dragonborn",
+        "race": 7,
+        "books": [
+            9,
+            4
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Dark Elf",
+        "race": 8,
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Eladrin",
+        "race": 8,
+        "books": [
+            6
+        ]
+    },
+    {
+        "id": 15,
+        "name": "High Elf",
+        "race": 8,
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Sea Elf",
+        "race": 8,
+        "books": [
+            6
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Shadar-Kai",
+        "race": 8,
+        "books": [
+            6
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Wood Elf",
+        "race": 8,
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Pallid Elf",
+        "race": 8,
+        "books": [
+            4
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Mark of Shadow Elf",
+        "race": 8,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Standard Fairy",
+        "race": 9,
+        "books": [
+            12
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Standard Firbolg",
+        "race": 10,
+        "books": [
+            14,
+            4
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Air Genasi",
+        "race": 11,
+        "books": [
+            4,
+            8
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Earth Genasi",
+        "race": 11,
+        "books": [
+            4,
+            8
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Fire Genasi",
+        "race": 11,
+        "books": [
+            4,
+            8
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Water Genasi",
+        "race": 11,
+        "books": [
+            4,
+            8
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Githyanki",
+        "race": 12,
+        "books": [
+            6
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Githzerai",
+        "race": 12,
+        "books": [
+            6
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Rock Gnome",
+        "race": 13,
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Forest Gnome",
+        "race": 13,
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Deep Gnome",
+        "race": 13,
+        "books": [
+            8
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Mark of Scribing Gnome",
+        "race": 13,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Standard Goblin",
+        "race": 14,
+        "books": [
+            5,
+            14,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Standard Goliath",
+        "race": 15,
+        "books": [
+            8,
+            14,
+            4
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Lightfoot Halfling",
+        "race": 16,
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Stout Halfling",
+        "race": 16,
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Ghostwise Halfling",
+        "race": 16,
+        "books": [
+            10
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Lotusden Halfling",
+        "race": 16,
+        "books": [
+            4
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Mark of Hospitality Halfling",
+        "race": 16,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Mark of Healing Halfling",
+        "race": 16,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Standard Harengon",
+        "race": 17,
+        "books": [
+            12
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Standard Hexblood",
+        "race": 18,
+        "books": [
+            13
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Standard Simic Hybrid",
+        "race": 19,
+        "books": [
+            5
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Standard Hobgoblin",
+        "race": 20,
+        "books": [
+            14,
+            3,
+            4
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Standard Human",
+        "race": 22,
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Variant Human",
+        "race": 22,
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Variant Human: Mark of Finding",
+        "race": 22,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Variant Human: Mark of Handling",
+        "race": 22,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Variant Human: Mark of Making",
+        "race": 22,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Variant Human: Mark of Passage",
+        "race": 22,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Variant Human: Mark of Sentinel",
+        "race": 22,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Standard Kalashtar",
+        "race": 23,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Standard Kenku",
+        "race": 24,
+        "books": [
+            14,
+            4
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Standard Kobold",
+        "race": 25,
+        "books": [
+            14
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Standard Leonin",
+        "race": 26,
+        "books": [
+            7
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Standard Lizardfolk",
+        "race": 27,
+        "books": [
+            14
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Standard Loxodon",
+        "race": 28,
+        "books": [
+            5
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Standard Half-Elf",
+        "race": 29,
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Half-Elf Variants",
+        "race": 29,
+        "books": [
+            10
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Variant Half-Elf: Mark of Detection",
+        "race": 29,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Variant Half-Elf: Mark of Storm",
+        "race": 29,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Standard Half-Orc",
+        "race": 30,
+        "books": [
+            9,
+            3
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Variant Half-Orc: Mark of Finding",
+        "race": 30,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Standard Minotaur",
+        "race": 31,
+        "books": [
+            5,
+            7
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Standard Orc",
+        "race": 32,
+        "books": [
+            14
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Eberron Orc",
+        "race": 32,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Exandria Orc",
+        "race": 32,
+        "books": [
+            4
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Standard Reborn",
+        "race": 33,
+        "books": [
+            13
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Standard Satyr",
+        "race": 34,
+        "books": [
+            7
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Beasthide",
+        "race": 35,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Longtooth",
+        "race": 35,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Swiftstride",
+        "race": 35,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Wildhunt",
+        "race": 35,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Standard Tabaxi",
+        "race": 36,
+        "books": [
+            14
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Bloodline of Asmodeus",
+        "race": 37,
+        "books": [
+            9
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Bloodline of Baalzebul",
+        "race": 37,
+        "books": [
+            6
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Bloodline of Dispater",
+        "race": 37,
+        "books": [
+            6
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Bloodline of Fierna",
+        "race": 37,
+        "books": [
+            6
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Bloodline of Glasya",
+        "race": 37,
+        "books": [
+            6
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Bloodline of Levistus",
+        "race": 37,
+        "books": [
+            6
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Bloodline of Mammon",
+        "race": 37,
+        "books": [
+            6
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Bloodline of Mephistopheles",
+        "race": 37,
+        "books": [
+            6
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Bloodline of Zariel",
+        "race": 37,
+        "books": [
+            6
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Tiefling Variants",
+        "race": 37,
+        "books": [
+            10
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Standard Tortle",
+        "race": 38,
+        "books": [
+            4
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Standard Triton",
+        "race": 39,
+        "books": [
+            14
+        ]
+    },
+    {
+        "id": 87,
+        "name": "Standard Vedalken",
+        "race": 40,
+        "books": [
+            5
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Standard Verdan",
+        "race": 41,
+        "books": [
+            1
+        ]
+    },
+    {
+        "id": 89,
+        "name": "Standard Warforged",
+        "race": 42,
+        "books": [
+            3
+        ]
+    },
+    {
+        "id": 90,
+        "name": "Yuan-Ti Pureblood",
+        "race": 43,
+        "books": [
+            14
+        ]
+    }
 ]

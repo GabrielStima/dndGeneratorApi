@@ -167,28 +167,21 @@
     },
     {
         "id": 21,
-        "name": "Hollow One",
-        "books": [
-            4
-        ]
-    },
-    {
-        "id": 22,
-        "name": "Humano",
+        "name": "Human",
         "books": [
             9,
             3
         ]
     },
     {
-        "id": 23,
+        "id": 22,
         "name": "Kalashtar",
         "books": [
             3
         ]
     },
     {
-        "id": 24,
+        "id": 23,
         "name": "Kenku",
         "books": [
             14,
@@ -196,35 +189,35 @@
         ]
     },
     {
-        "id": 25,
+        "id": 24,
         "name": "Kobold",
         "books": [
             14
         ]
     },
     {
-        "id": 26,
+        "id": 25,
         "name": "Leonin",
         "books": [
             7
         ]
     },
     {
-        "id": 27,
+        "id": 26,
         "name": "Lizardfolk",
         "books": [
             14
         ]
     },
     {
-        "id": 28,
-        "name": "Loxodonte",
+        "id": 27,
+        "name": "Loxodon",
         "books": [
             5
         ]
     },
     {
-        "id": 29,
+        "id": 28,
         "name": "Half-Elf",
         "books": [
             9,
@@ -232,7 +225,7 @@
         ]
     },
     {
-        "id": 30,
+        "id": 29,
         "name": "Half-Orc",
         "books": [
             9,
@@ -240,7 +233,7 @@
         ]
     },
     {
-        "id": 31,
+        "id": 30,
         "name": "Minotaur",
         "books": [
             5,
@@ -248,7 +241,7 @@
         ]
     },
     {
-        "id": 32,
+        "id": 31,
         "name": "Orc",
         "books": [
             14,
@@ -256,28 +249,28 @@
         ]
     },
     {
-        "id": 33,
+        "id": 32,
         "name": "Reborn",
         "books": [
             13
         ]
     },
     {
-        "id": 34,
+        "id": 33,
         "name": "Satyr",
         "books": [
             7
         ]
     },
     {
-        "id": 35,
+        "id": 34,
         "name": "Shifter",
         "books": [
             3
         ]
     },
     {
-        "id": 36,
+        "id": 35,
         "name": "Tabaxi",
         "books": [
             14,
@@ -285,7 +278,7 @@
         ]
     },
     {
-        "id": 37,
+        "id": 36,
         "name": "Tiefling",
         "books": [
             9,
@@ -294,43 +287,43 @@
         ]
     },
     {
-        "id": 38,
+        "id": 37,
         "name": "Tortle",
         "books": [
             4
         ]
     },
     {
-        "id": 39,
-        "name": "Tritão",
+        "id": 38,
+        "name": "Triton",
         "books": [
             14,
             7
         ]
     },
     {
-        "id": 40,
+        "id": 39,
         "name": "Vedalken",
         "books": [
             5
         ]
     },
     {
-        "id": 41,
+        "id": 40,
         "name": "Verdan",
         "books": [
             1
         ]
     },
     {
-        "id": 42,
+        "id": 41,
         "name": "Warforged",
         "books": [
             3
         ]
     },
     {
-        "id": 43,
+        "id": 42,
         "name": "Yuan-Ti",
         "books": [
             14
