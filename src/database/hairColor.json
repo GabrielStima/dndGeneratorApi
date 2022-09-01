@@ -1,146 +1,98 @@
 [
     {
         "id": 1,
-        "text": "Light brown"
+        "text": "Black"
     },
     {
         "id": 2,
-        "text": "Medium brown"
+        "text": "Gray"
     },
     {
         "id": 3,
-        "text": "Dark brown"
+        "text": "Platinum"
     },
     {
         "id": 4,
-        "text": "Light auburn"
+        "text": "White"
     },
     {
         "id": 5,
-        "text": "Medium auburn"
+        "text": "Blonde"
     },
     {
         "id": 6,
-        "text": "Dark auburn"
+        "text": "Redhead"
     },
     {
         "id": 7,
-        "text": "Light blond"
+        "text": "Brunette"
     },
     {
         "id": 8,
-        "text": "Medium blond"
+        "text": "Auburn"
     },
     {
         "id": 9,
-        "text": "Dark blond"
+        "text": "Amber"
     },
     {
         "id": 10,
-        "text": "Light red"
+        "text": "Brown"
     },
     {
         "id": 11,
-        "text": "Medium red"
+        "text": "Hazel"
     },
     {
         "id": 12,
-        "text": "Dark red"
+        "text": "Gray"
     },
     {
         "id": 13,
-        "text": "Light golden"
+        "text": "Dyed Yellow"
     },
     {
         "id": 14,
-        "text": "Medium golden"
+        "text": "Dyed Green"
     },
     {
         "id": 15,
-        "text": "Dark golden"
+        "text": "Dyed Blue"
     },
     {
         "id": 16,
-        "text": "Light silver"
+        "text": "Dyed Aqua"
     },
     {
         "id": 17,
-        "text": "Medium silver"
+        "text": "Dyed Red"
     },
     {
         "id": 18,
-        "text": "Dark silver"
+        "text": "Dyed Purple"
     },
     {
         "id": 19,
-        "text": "Light gray"
+        "text": "Dyed Violet Red"
     },
     {
         "id": 20,
-        "text": "Medium gray"
+        "text": "Dyed Orange"
     },
     {
         "id": 21,
-        "text": "Dark gray"
+        "text": "Dyed Spring Green"
     },
     {
         "id": 22,
-        "text": "Light white"
+        "text": "Dyed Sea Green"
     },
     {
         "id": 23,
-        "text": "Medium white"
+        "text": "Dyed Emerald Green"
     },
     {
         "id": 24,
-        "text": "Dark white"
-    },
-    {
-        "id": 25,
-        "text": "Light black"
-    },
-    {
-        "id": 26,
-        "text": "Medium black"
-    },
-    {
-        "id": 27,
-        "text": "Dark black"
-    },
-    {
-        "id": 28,
-        "text": "Dyed black"
-    },
-    {
-        "id": 29,
-        "text": "Dyed blue"
-    },
-    {
-        "id": 30,
-        "text": "Dyed purple"
-    },
-    {
-        "id": 31,
-        "text": "Dyed pink"
-    },
-    {
-        "id": 32,
-        "text": "Dyed yellow"
-    },
-    {
-        "id": 33,
-        "text": "Dyed red"
-    },
-    {
-        "id": 34,
-        "text": "Dyed orange"
-    },
-    {
-        "id": 35,
-        "text": "Dyed green"
-    },
-    {
-        "id": 36,
-        "text": "Dyed teal"
+        "text": "Dyed Teal"
     }
 ]

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "text": "Yellow"
+    },
+    {
+        "id": 2,
+        "text": "Amber"
+    },
+    {
+        "id": 3,
+        "text": "Brown"
+    },
+    {
+        "id": 4,
+        "text": "Hazel"
+    },
+    {
+        "id": 5,
+        "text": "Green"
+    },
+    {
+        "id": 6,
+        "text": "Blue"
+    },
+    {
+        "id": 7,
+        "text": "Gray"
+    },
+    {
+        "id": 8,
+        "text": "Aqua"
+    },
+    {
+        "id": 9,
+        "text": "Red"
+    },
+    {
+        "id": 10,
+        "text": "Purple"
+    },
+    {
+        "id": 11,
+        "text": "Pale Brown"
+    },
+    {
+        "id": 12,
+        "text": "Pale Blue"
+    },
+    {
+        "id": 13,
+        "text": "Pale Green"
+    },
+    {
+        "id": 14,
+        "text": "Pale Gray"
+    },
+    {
+        "id": 15,
+        "text": "Deep Blue"
+    },
+    {
+        "id": 16,
+        "text": "Violet Red"
+    },
+    {
+        "id": 17,
+        "text": "Orange"
+    },
+    {
+        "id": 18,
+        "text": "Spring Green"
+    },
+    {
+        "id": 19,
+        "text": "Sea Green"
+    },
+    {
+        "id": 20,
+        "text": "Emerald Green"
+    }
+]

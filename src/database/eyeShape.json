@@ -1,0 +1,16 @@
+[
+    {"id":1, "text":"Round eyes"},
+    {"id":2, "text":"Roundish-almond eyes"},
+    {"id":3, "text":"Almond eyes"},
+    {"id":4, "text":"Thin almond eyes"},
+    {"id":5, "text":"Droopy eyes"},
+    {"id":6, "text":"Droopy hooded eyes"},
+    {"id":7, "text":"Hooded eyes"},
+    {"id":8, "text":"Monolid eyes"},
+    {"id":9, "text":"Childish eyes"},
+    {"id":10, "text":"Wide set eyes"},
+    {"id":11, "text":"Close set eyes"},
+    {"id":12, "text":"Big eyes"},
+    {"id":13, "text":"Small eyes"},
+    {"id":14, "text":"Squint eyes"}
+]
